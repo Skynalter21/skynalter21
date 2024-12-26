@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**Skynalter21/skynalter21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+🎓 **Profissão/Cargo**: Desenvolvedor Full stack
+💻 **Tecnologias principais**: HTML, CSS, JavaScript, Vue.js, Laravel  
+🌱 **Atualmente aprendendo**: TypeScript, Docker, React, Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Murillohrr&show_icons=true&theme=radical)
+
+---
+
+## Conecte-se comigo
+📫 Email: [Murillohrr@gmail.com](mailto:Murillohrr@gmail.com)  
+💼 LinkedIn: [Murillohrr](https://www.linkedin.com/in/murillo-rodrigues-b224b516a/)  
