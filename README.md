@@ -8,7 +8,7 @@
 ---
 
 ## Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Murillohrr&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=skynalter21&show_icons=true&theme=radical)
 
 ---
 
