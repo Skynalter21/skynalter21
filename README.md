@@ -46,10 +46,7 @@
 ## Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=skynalter21&layout=compact&theme=dracula)
 
-
 ## Onde me encontrar
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-
 [![Linkedin](https://img.shields.io/badge/-Murillohrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillo-rodrigues-b224b516a/)](https://www.linkedin.com/in/murillo-rodrigues-b224b516a/)
 [![Gmail Badge](https://img.shields.io/badge/-murillohrr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillohrr@gmail.com)](mailto:murillohrr@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Skynalter21?label=follow&style=social)](https://github.com/Skynalter21)
