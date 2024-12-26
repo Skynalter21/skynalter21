@@ -8,10 +8,10 @@
 ---
 
 ## Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=skynalter21&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=skynalter21&show_icons=true&theme=dracula)
 
 ## Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=skynalter21&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=skynalter21&layout=compact&theme=dracula)
 ---
 
 ## Conecte-se comigo
