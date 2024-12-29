@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=skynalter21&color=006bed)
 
-## Sobre mim
+## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da computação na Universidade Federal de Uberlândia
-- 💼 Trabalhando como desenvolvedor Full stack  na Didadikos.
-- 🌱 Aprendendo mais sobre Python, React e Docker.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Computer Science at the Federal University of Uberlândia.
+- 💼 Working as a Full Stack Developer at Didadikos.
+- 🌱 Learning more about Python, React, and Docker.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications and Data**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -18,9 +18,10 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -31,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -40,13 +41,13 @@
 
 <br/>
 
-## Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=skynalter21&show_icons=true&theme=dracula)
+## GitHub Statistics
+![Statistics](https://github-readme-stats.vercel.app/api?username=skynalter21&show_icons=true&theme=dracula)
 
-## Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=skynalter21&layout=compact&theme=dracula)
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skynalter21&layout=compact&theme=dracula)
 
-## Onde me encontrar
+## Where to Find Me
 [![Linkedin](https://img.shields.io/badge/-Murillohrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillo-rodrigues-b224b516a/)](https://www.linkedin.com/in/murillo-rodrigues-b224b516a/)
 [![Gmail Badge](https://img.shields.io/badge/-murillohrr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillohrr@gmail.com)](mailto:murillohrr@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Skynalter21?label=follow&style=social)](https://github.com/Skynalter21)
